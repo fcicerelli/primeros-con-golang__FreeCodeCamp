@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func HolaMundo() {
 	// De esta forma comentamos el código
 	fmt.Print("Hola Mundo con go!!!")
 }
